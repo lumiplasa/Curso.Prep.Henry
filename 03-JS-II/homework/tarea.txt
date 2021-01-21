@@ -1,0 +1,7 @@
+1.
+
+for: es una secuencia que se repite, basado en las instrucciones que incluye. 
+Con dichas instrcciones podemos elegir cuantas veces se repite dicho bucle o que condiciones debe tener para seguir repitiendose.
+
+CONDICIONALES `&&`, `||`, `!`
+Se usan de la misma forma que en la grámatica. 'y', 'o' , 'diferente'
